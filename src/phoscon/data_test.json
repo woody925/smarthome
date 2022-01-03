@@ -1,0 +1,157 @@
+{
+    "1": {
+        "config": {
+            "configured": true,
+            "on": true,
+            "sunriseoffset": 30,
+            "sunsetoffset": -30
+        },
+        "etag": "67e4905e4e534ee9f3add1034a7bcde2",
+        "manufacturername": "Philips",
+        "modelid": "PHDL00",
+        "name": "Daylight",
+        "state": {
+            "dark": true,
+            "daylight": false,
+            "lastupdated": "2021-12-30T18:17:13.076",
+            "status": 230,
+            "sunrise": "2021-12-30T07:06:30",
+            "sunset": "2021-12-30T15:23:31"
+        },
+        "swversion": "1.0",
+        "type": "Daylight",
+        "uniqueid": "00:21:2e:ff:ff:04:dd:27-01"
+    },
+    "2": {
+        "config": {
+            "battery": 100,
+            "offset": 0,
+            "on": true,
+            "reachable": false
+        },
+        "ep": 1,
+        "etag": "c36dacb439c4411c333d39af80e10afa",
+        "lastannounced": "2021-11-22T18:32:19Z",
+        "lastseen": "2021-12-30T18:35Z",
+        "manufacturername": "LUMI",
+        "modelid": "lumi.weather",
+        "name": "Temp-Wohnzimmer",
+        "state": {
+            "lastupdated": "2021-12-30T18:35:52.119",
+            "temperature": 2206
+        },
+        "swversion": "20161129",
+        "type": "ZHATemperature",
+        "uniqueid": "00:15:8d:00:03:6b:8d:bb-01-0402"
+    },
+    "3": {
+        "config": {
+            "battery": 100,
+            "offset": 0,
+            "on": true,
+            "reachable": false
+        },
+        "ep": 1,
+        "etag": "c3e6ba9a6f04892af2b19f4f2b4ce96d",
+        "lastannounced": "2021-11-22T18:32:19Z",
+        "lastseen": "2021-12-30T18:35Z",
+        "manufacturername": "LUMI",
+        "modelid": "lumi.weather",
+        "name": "Temp-Wohnzimmer",
+        "state": {
+            "humidity": 6081,
+            "lastupdated": "2021-12-30T18:35:52.130"
+        },
+        "swversion": "20161129",
+        "type": "ZHAHumidity",
+        "uniqueid": "00:15:8d:00:03:6b:8d:bb-01-0405"
+    },
+    "4": {
+        "config": {
+            "battery": 100,
+            "offset": 0,
+            "on": true,
+            "reachable": false
+        },
+        "ep": 1,
+        "etag": "1ed940950eaaaa5295b189c5564e9b07",
+        "lastannounced": "2021-11-22T18:32:19Z",
+        "lastseen": "2021-12-30T18:35Z",
+        "manufacturername": "LUMI",
+        "modelid": "lumi.weather",
+        "name": "Temp-Wohnzimmer",
+        "state": {
+            "lastupdated": "2021-12-30T18:35:52.135",
+            "pressure": 978
+        },
+        "swversion": "20161129",
+        "type": "ZHAPressure",
+        "uniqueid": "00:15:8d:00:03:6b:8d:bb-01-0403"
+    },
+    "5": {
+        "config": {
+            "battery": 38,
+            "offset": 0,
+            "on": true,
+            "reachable": false
+        },
+        "ep": 1,
+        "etag": "305255dfcdc794c83f9efdb48b561acb",
+        "lastannounced": "2021-11-22T18:33:55Z",
+        "lastseen": "2021-12-30T18:52Z",
+        "manufacturername": "LUMI",
+        "modelid": "lumi.weather",
+        "name": "Temp-Badezimmer",
+        "state": {
+            "lastupdated": "2021-12-30T18:52:14.639",
+            "temperature": 2098
+        },
+        "swversion": "20161129",
+        "type": "ZHATemperature",
+        "uniqueid": "00:15:8d:00:04:60:5d:61-01-0402"
+    },
+    "6": {
+        "config": {
+            "battery": 38,
+            "offset": 0,
+            "on": true,
+            "reachable": false
+        },
+        "ep": 1,
+        "etag": "2325d577b04c022b35fcae0081781f06",
+        "lastannounced": "2021-11-22T18:33:55Z",
+        "lastseen": "2021-12-30T18:52Z",
+        "manufacturername": "LUMI",
+        "modelid": "lumi.weather",
+        "name": "Temp-Badezimmer",
+        "state": {
+            "humidity": 8357,
+            "lastupdated": "2021-12-30T18:52:14.649"
+        },
+        "swversion": "20161129",
+        "type": "ZHAHumidity",
+        "uniqueid": "00:15:8d:00:04:60:5d:61-01-0405"
+    },
+    "7": {
+        "config": {
+            "battery": 38,
+            "offset": 0,
+            "on": true,
+            "reachable": false
+        },
+        "ep": 1,
+        "etag": "f73a31a54fdff79ae1e7426d1b5af152",
+        "lastannounced": "2021-11-22T18:33:55Z",
+        "lastseen": "2021-12-30T18:52Z",
+        "manufacturername": "LUMI",
+        "modelid": "lumi.weather",
+        "name": "Temp-Badezimmer",
+        "state": {
+            "lastupdated": "2021-12-30T18:52:14.656",
+            "pressure": 978
+        },
+        "swversion": "20161129",
+        "type": "ZHAPressure",
+        "uniqueid": "00:15:8d:00:04:60:5d:61-01-0403"
+    }
+}

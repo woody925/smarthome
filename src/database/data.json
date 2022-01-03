@@ -1,0 +1,82 @@
+{
+    "1": {
+        "config": {
+            "configured": true,
+            "on": true,
+            "sunriseoffset": 30,
+            "sunsetoffset": -30
+        },
+        "etag": "55a943c66963c72ece33aa870e29ba82",
+        "manufacturername": "Philips",
+        "modelid": "PHDL00",
+        "name": "Daylight",
+        "state": {
+            "dark": true,
+            "daylight": false,
+            "lastupdated": "2020-01-29T16:37:32",
+            "status": 210
+        },
+        "swversion": "1.0",
+        "type": "Daylight",
+        "uniqueid": "00:21:2e:ff:ff:04:dd:27-01"
+    },
+    "2": {
+        "config": {
+            "battery": 91,
+            "offset": 0,
+            "on": true,
+            "reachable": true
+        },
+        "ep": 1,
+        "etag": "0aceecdeb4f38f8a6366937ff25a477a",
+        "manufacturername": "LUMI",
+        "modelid": "lumi.weather",
+        "name": "Temp-Wohnzimmer",
+        "state": {
+            "lastupdated": "2020-01-29T16:27:27",
+            "temperature": 2400
+        },
+        "swversion": "20161129",
+        "type": "ZHATemperature",
+        "uniqueid": "00:15:8d:00:03:6b:8d:bb-01-0402"
+    },
+    "3": {
+        "config": {
+            "battery": 91,
+            "offset": 0,
+            "on": true,
+            "reachable": true
+        },
+        "ep": 1,
+        "etag": "0aceecdeb4f38f8a6366937ff25a477a",
+        "manufacturername": "LUMI",
+        "modelid": "lumi.weather",
+        "name": "Temp-Wohnzimmer",
+        "state": {
+            "humidity": 3987,
+            "lastupdated": "2020-01-29T16:27:27"
+        },
+        "swversion": "20161129",
+        "type": "ZHAHumidity",
+        "uniqueid": "00:15:8d:00:03:6b:8d:bb-01-0405"
+    },
+    "4": {
+        "config": {
+            "battery": 91,
+            "on": true,
+            "reachable": true
+        },
+        "ep": 1,
+        "etag": "0aceecdeb4f38f8a6366937ff25a477a",
+        "manufacturername": "LUMI",
+        "modelid": "lumi.weather",
+        "name": "Temp-Wohnzimmer",
+        "state": {
+            "lastupdated": "2020-01-29T16:27:27",
+            "pressure": 967
+        },
+        "swversion": "20161129",
+        "type": "ZHAPressure",
+        "uniqueid": "00:15:8d:00:03:6b:8d:bb-01-0403"
+    }
+}
